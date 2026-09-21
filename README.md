@@ -1,3 +1,11 @@
+> ⚠️ **DEPRECATED — This repository has been split into 3 repos.**
+> Please open new issues in:
+> - **[Daedalusys/daedalus-core](https://github.com/Daedalusys/daedalus-core)** — image build + 5 core runtime + copilot
+> - **[Daedalusys/daedalus-sdk](https://github.com/Daedalusys/daedalus-sdk)** — 11 security core packages
+> - **[Daedalusys/daedalus-plugins](https://github.com/Daedalusys/daedalus-plugins)** — 6 Go capability plugins monorepo
+> 
+> Historical issues remain readable below. Migration completed: 2026-09-21 (see pinned issue).
+
 # Diva-OS
 
 AI-native 桌面操作系统：在 AlmaLinux 10 bootc（KDE 变体）的不可变、原子、可回滚底座上，
